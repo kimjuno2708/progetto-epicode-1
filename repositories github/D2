@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Focaccia with Caramelized Onions, Cranberries, and Brie | Simply Food</title>
+  <style>
+    body {
+      background-color: white;
+    }
+    header {
+      background-color: rgb(0, 128, 128); /* Green-Blue */
+      padding: 20px;
+      color: white;
+    }
+    h1 {
+      margin: 0;
+      text-align: center;
+    }
+    .logo {
+      width: 100px;
+      height: 100px;
+      margin: 10px auto;
+      display: block;
+    }
+    .recipe-image {
+      display: block;
+      margin: 20px auto;
+      max-width: 500px;
+      height: auto;
+    }
+    .recipe-details {
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Simply Food Logo" class="logo">
+    <h1>Focaccia with Caramelized Onions, Cranberries, and Brie</h1>
+  </header>
+  <img src="recipe-image.jpg" alt="Focaccia with Caramelized Onions, Cranberries, and Brie" class="recipe-image">
+  <div class="recipe-details">
+    <h2>Ingredients:</h2>
+    <ul>
+      <li>2 cups all-purpose flour</li>
+      <li>1 teaspoon salt</li>
+      <li>1 tablespoon sugar</li>
+      <li>1 packet active dry yeast</li>
+      <li>1 cup warm water</li>
+      <li>1/4 cup olive oil</li>
+      <li>1 large onion, thinly sliced</li>
+      <li>1/2 cup dried cranberries</li>
+      <li>6 ounces Brie cheese, sliced</li>
+      <li>Additional olive oil for drizzling</li>
+      <li>Salt and pepper to taste</li>
+    </ul>
+    <h2>Instructions:</h2>
+    <ol>
+      <li>In a large bowl, combine flour, salt, and sugar. In a separate small bowl, dissolve yeast in warm water and let it sit for 5 minutes.</li>
+      <li>Pour the yeast mixture and olive oil into the flour mixture. Stir until a sticky dough forms.</li>
+      <li>Knead the dough on a lightly floured surface for about 5 minutes or until smooth and elastic. Place the dough in a greased bowl, cover with a damp cloth, and let it rise in a warm place for 1 hour or until doubled in size.</li>
+      <li>While the dough is rising, heat a tablespoon of olive oil in a skillet over medium heat. Add the sliced onions and cook until caramelized, about 15 minutes. Set aside.</li>
+      <li>Preheat the oven to 425°F (220°C). Punch down the dough and transfer it to a greased baking sheet. Press the dough into a rectangular shape, about 1/2-inch thick.</li>
+      <li>Spread the caramelized onions, dried cran
